@@ -1,3 +1,20 @@
 # Github Repository Template for ML Application
+(Short description)
 
-This is a template repository for ML Application.
+## Motivation
+(Why?)
+
+## Environmetal Setup
+(How to set up?)
+
+## Dataset
+(Which dataset?)
+
+## Train
+(How to train?)
+
+## Test
+(How to test?)
+
+## Analaysis
+(The results of analysis?)
